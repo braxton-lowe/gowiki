@@ -1,0 +1,1 @@
+this should be the last file we create. We refactored to put getTitle inside makHandler wrapper function that wraps and enclosed ech view, save, edit func!
